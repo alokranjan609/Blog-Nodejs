@@ -7,6 +7,7 @@ This is a full-featured blog website that allows users to register, log in, crea
 ## Features
 
 - User authentication with JWT tokens
+- Express-rate-limit is implemented to limit the number of requests a client can make .
 - Secure password storage with salted and hashed passwords
 - User registration and login
 - Create, read, update, and delete (CRUD) operations for blog posts
